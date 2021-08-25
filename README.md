@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Niagara
 - 💞️ I’m looking to collaborate on Fanmade Games
 - 📫 How to reach me:
-Bilibili:https://www.bilibili.com/space/295964600
-mail:jack1122334455@126.com
+- Bilibili:https://space.bilibili.com/295964600
+- mail:jack1122334455@126.com
 
 <!---
 Ritanlisa/Ritanlisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
